@@ -30,7 +30,7 @@
 
 [[constraint]]
   name = "github.com/jessevdk/go-flags"
-  version = "^v1.4.0"
+  version = "v1.4.0"
 
 [[constraint]]
   name = "github.com/smartystreets/goconvey"
